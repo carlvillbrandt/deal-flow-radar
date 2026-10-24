@@ -1,0 +1,9 @@
+[
+  {"source":"techcrunch_venture","url":"https://techcrunch.com/category/venture/feed/"},
+  {"source":"eu_startups","url":"https://www.eu-startups.com/feed/"},
+  {"source":"tech_eu","url":"https://tech.eu/feed/"},
+  {"source":"sifted","url":"https://sifted.eu/feed"},
+  {"source":"siliconangle","url":"https://siliconangle.com/feed/"},
+  {"source":"crunchbase_news","url":"https://news.crunchbase.com/feed/"},
+  {"source":"prnewswire_vc","url":"https://www.prnewswire.com/rss/financial-services-latest-news/venture-capital-list.rss"}
+]
